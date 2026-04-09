@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 PhD candidate in Neuroscience @ UT Austin — specializing in EEG/BCI systems<br>⚡ Build real-time classification pipelines for neural decoding using signal processing + ML<br>🧠 Research focus: attention systems, cognitive function enhancement, small noisy signals
+🎓 PhD candidate in Neuroscience @ UT Austin — specializing in EEG/BCI systems<br>⚡ Build real-time classification pipelines for neural decoding using signal processing + ML<br>🧠 Research focus: robotics applications, cognitive function enhancement, small noisy signals
 
 
 ## 🌐 Socials:
